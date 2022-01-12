@@ -6,7 +6,7 @@ I am a Cloud Solutions Architect from London, UK 🇬🇧 currently based in Cop
 
 [Cloudeon - Part of DevoTeam](https://www.cloudeon.com/).
 
-I have previously worked as a Lead DevOps engineer with [Aiia](https://www.aiia.eu/) (Now Mastercard) and [Corti.ai](https://www.corti.ai/).
+I have previously worked as a Lead DevOps engineer with [Aiia.eu](https://www.aiia.eu/) (Now Mastercard) and [Corti.ai](https://www.corti.ai/).
 
 - 🌱 I’m currently learning ***Golang***, ***.Net*** and ***automation***.
 - 👯 I’m looking to collaborate on ***Go open source projects***.
