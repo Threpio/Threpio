@@ -8,7 +8,7 @@ I am a Cloud Solutions Architect from London, UK 🇬🇧 currently based in Cop
 
 I have previously worked as a Lead DevOps engineer with [Aiia.eu](https://www.aiia.eu/) (Now Mastercard) and [Corti.ai](https://www.corti.ai/).
 
-- 🌱 I’m currently learning ***Golang***, ***.Net*** and ***automation***.
+- 🌱 I’m currently learning ***how to be a human***.
 - 👯 I’m looking to collaborate on ***Go open source projects***.
 - 💬 Ask me about ***Azure***/***AWS*** and ***Golang*** if you are feeling brave
 
