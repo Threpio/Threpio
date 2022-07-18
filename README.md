@@ -1,6 +1,4 @@
-### Hello there - I'm Theo 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theo-andresier/)
+### Hello there - I'm Theo 👋 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theo-andresier/)
 
 I am a Lead Cloud Solutions Architect from London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰 working for:
 
