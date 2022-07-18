@@ -1,6 +1,6 @@
 ### Hello there - I'm Theo 👋 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theo-andresier/)
 
-I am a Lead CSA for [Devoteam M Cloud](https://mcloud.devoteam.com/).
+I am a Lead CSA / Domain Lead - Kubernetes for [Devoteam M Cloud](https://mcloud.devoteam.com/).
 
 I am from the London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰
 
