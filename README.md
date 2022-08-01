@@ -11,8 +11,8 @@ I have previously worked as a Division Lead - Lead DevOps engineer with
 - [Corti.ai](https://www.corti.ai/).
 - [TechAmigos.co](https://techamigos.co/).
 
-- 👯 I’m looking to collaborate on ***Go open source projects***.
-- 💬 Ask me about ***Azure*** and ***Golang***.
+👯 I’m looking to collaborate on ***Go open source projects***.
+💬 Ask me about ***Azure*** and ***Golang***.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Threpio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
