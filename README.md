@@ -5,7 +5,7 @@ I am the Head of Platform - Cloud Management Platform for [Devoteam M Cloud](htt
 
 I am from the London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰
 
-I have previously worked as a Division Lead - Lead DevOps engineer with 
+I have previously worked as a Division Lead / Lead DevOps engineer with 
 - [Aiia.eu](https://www.aiia.eu/). (Now Mastercard) 
 - [Corti.ai](https://www.corti.ai/).
 - [TechAmigos.co](https://techamigos.co/).
