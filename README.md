@@ -2,7 +2,7 @@
 
 I am from the London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰
 
-I currently work as a Domain Lead/ Principle Cloud Solutions Architect!
+I currently work as a Domain Lead - I own the K8s, Golang and App Modernization track! 
 
 I have previously worked as a Division Lead / Lead DevOps engineer with 
 - [Aiia.eu](https://www.aiia.eu/). (Now Mastercard) 
