@@ -2,7 +2,7 @@
 
 I am from the London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰 / Skåne, Sweden 🇸🇪
 
-I am a solo-consultant that helps companies with all manners of Software Development, Architecture or Cloud work that is required.
+I am a consultant that helps companies with all manners of Software Development, Architecture or Cloud work that is required.
 
 
 I have previously worked as a Technical Domain Lead / Division Lead / Lead DevOps engineer with 
