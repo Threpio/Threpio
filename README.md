@@ -2,7 +2,12 @@
 
 I am from the London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰 / Skåne, Sweden 🇸🇪
 
-I am a consultant that helps companies with all manners of Software Development, Architecture or Cloud work that is required.
+I work as a Principal Consultant with [RedShoes Consulting](https://redshoes.consulting/)
+
+I am a consultant that helps companies with all manners of Software Development, Architecture, or Cloud work that is required.
+
+
+
 
 
 I have previously worked as a Technical Domain Lead / Division Lead / Lead DevOps engineer with 
