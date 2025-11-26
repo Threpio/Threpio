@@ -2,7 +2,7 @@
 
 I am from the London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰 / Skåne, Sweden 🇸🇪
 
-I work as a Principal Consultant with [RedShoes Consulting](https://redshoes.consulting/)
+I work as a Principal Consultant with [RedShoes Consulting](https://redshoes.consulting/) - You can reach out to me there: [tma@redshoes.consulting](mailto:tma@redshoes.consulting)
 
 I am a consultant that helps companies with all manners of Software Development, Architecture, or Cloud work that is required.
 
