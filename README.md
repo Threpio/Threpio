@@ -1,25 +1,18 @@
-### Hello there - I'm Theo 👋 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theo-andresier/)
+I’m Theo — a Principal Cloud Architect helping organisations design, modernise, and operate cloud-native platforms at scale.
 
-I am from the London, UK 🇬🇧 currently based in Copenhagen, Denmark 🇩🇰 / Skåne, Sweden 🇸🇪
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theo-andresier/)
 
-I work as a Principal Consultant with [RedShoes Consulting](https://redshoes.consulting/) - You can reach out to me there: [tma@redshoes.consulting](mailto:tma@redshoes.consulting)
-
-I am a consultant that helps companies with all manners of Software Development, Architecture, or Cloud work that is required.
-
-
-
+- Cloud-native & platform architecture (Kubernetes, containers, automation)
+- Backend systems in Go & Rust
+- App modernisation & DevOps transformation
+- Consulting for regulated & high-scale environments
 
 
-I have previously worked as a Technical Domain Lead / Division Lead / Lead DevOps engineer with 
-- [Devoteam](https://www.devoteam.com/expert-view/expert-insight-green-kubernetes-the-future/) (Microsoft Partner Denmark)
-- [Aiia.eu](https://www.aiia.eu/). (Now Mastercard) 
-- [Corti.ai](https://www.corti.ai/). (AI medical sphere)
-- [TechAmigos.co](https://techamigos.co/). (DevOps Consultancy)
+Previously worked with:
 
-In my spare time I work with Arduino Projects, Golang/Rust open source projects, and Vatsim. 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Threpio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Threpio&&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+- Devoteam (Microsoft Partner)
+- AiiA / Mastercard
+- Corti.ai (AI medical)
+- TechAmigos
 
 
