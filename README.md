@@ -2,8 +2,8 @@ I’m Theo — a Principal Cloud Architect helping organisations design, moderni
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theo-andresier/)
 
-- Cloud-native & platform architecture (Kubernetes, containers, automation)
-- Backend systems in Go & Rust
+- Cloud-native & platform architecture (Kubernetes, Containers, CI/CD, Azure)
+- Backend systems in Go, Rust & C# .Net
 - App modernisation & DevOps transformation
 - Consulting for regulated & high-scale environments
 
